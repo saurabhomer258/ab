@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bornbhukkad</string>
+
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="slogan">write Slogan</string>
+    <string name="appbar_scolling_view_behavior">appbar_scolling_view_behavior</string>
+
+</resources>

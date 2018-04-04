@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "424597436997",
+    "firebase_url": "https://bornbhukadh.firebaseio.com",
+    "project_id": "bornbhukadh",
+    "storage_bucket": "bornbhukadh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424597436997:android:9d05693974b0bbc3",
+        "android_client_info": {
+          "package_name": "com.example.saurabhomer.bornbhukkad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424597436997-sq8ujgvntt7relo1m5s1frf1nh9v97dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurabhomer.bornbhukkad",
+            "certificate_hash": "147bfbf4876173107c36d35bb51ff626a4faf345"
+          }
+        },
+        {
+          "client_id": "424597436997-3brorkfvcpkq3pdf9q6fqoea9rgtj98s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJW1RE37guz7z4vwZ1s2g7ShScg-ymiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424597436997-3brorkfvcpkq3pdf9q6fqoea9rgtj98s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
